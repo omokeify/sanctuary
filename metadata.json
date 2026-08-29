@@ -1,0 +1,6 @@
+{
+  "name": "Soma Sanctuary - Massage & Bodywork",
+  "description": "Boutique massage studio booking web app with real-time therapist availability, deposit checkout, and client & admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
